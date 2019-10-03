@@ -21,6 +21,13 @@ Version       : 1.0
 
 */
 
+/******************* Added ******************/
+
+#portfolio-logo {
+  display: flex;
+  flex-grow: inherit;
+}
+
 /******************* Typography ******************/
 * {
   padding: 0;
